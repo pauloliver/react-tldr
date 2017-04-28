@@ -12,6 +12,6 @@
 [More redux videos](https://learnredux.com/)
 
 ### Dev Tools
-[React Browswer Extension](https://github.com/facebook/react-devtools)
+[React Browser Extension](https://github.com/facebook/react-devtools)
 
 [Redux Browser Extension](https://github.com/zalmoxisus/redux-devtools-extension)
